@@ -3,7 +3,9 @@
 Jogo de jokempô, onde:
 
 1 = pedra
+
 2 = papel
+
 3 = tesoura
 
 O computador:
